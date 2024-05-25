@@ -6,7 +6,7 @@ public class Calculator {
 	
 	/*
 	 * @param i
-	 * @param g
+	 * @param j
 	 * @return int
 	 */
 	public int add(int i, int j){
